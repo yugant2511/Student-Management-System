@@ -19,7 +19,3 @@ It allows users to add, view, search, and delete student records.
 - docs/ → Documentation
 - test_data/ → Sample student data
 
-## ▶ How to Run
-1. Open terminal
-2. Navigate to src folder
-3. Compile:
